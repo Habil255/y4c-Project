@@ -398,7 +398,7 @@
 </div> -->
 
                         <div class="site-section-cover overlay img-bg-section"
-                            style="background-image: url('images/20200922_122831.jpg'); ;">
+                            style="background-image: url('images/image1.jpeg'); ;">
                             <div class="container">
                                 <div class="row align-items-center justify-content-center text-center">
                                     <div class="col-md-12 col-lg-7">
@@ -600,7 +600,7 @@
 
                                 <div class="row">
 
-                                    <table class="table col-md-12 no-line"  style="text-decoration-line: none;" >
+                                    <table class="table col-md-12 no-line "  style="text-decoration-line: none;" >
                                         <tr>
                                             <td>
                                                 <div class="col-6 col-md-4 mb-2 col-lg-0 col-lg-10"
@@ -608,7 +608,7 @@
                                                     <div class="block-counter-1">
                                                         <span class="number text-primary"><span
                                                                 data-number="10">0</span></span>
-                                                        <span class="caption">Years of
+                                                        <span class="caption" >Years of
                                                             Experience</span>
                                                     </div>
                                                 </div>
@@ -637,7 +637,7 @@
                                             <td>
 
                                         </tr>
-                                        <!-- <tr>
+                                         <tr>
                                             <td>
                                                 <div class="col-6 col-md-6 mb-4 col-lg-0 col-lg-10"
                                                     data-aos="fade-up" data-aos-delay="300">
@@ -669,7 +669,7 @@
                                                     </div>
                                                 </div>
                                             </td>
-                                        </tr> -->
+                                        </tr> 
                                     </table>
 
                                 </div>

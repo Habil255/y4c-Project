@@ -59,7 +59,7 @@
                           </div>
                             <div class="form-group">
                               <label for="company_name">Image:</label>
-                              <input id="file" type="file" class="form-control" name="file" required
+                              <input id="file" type="file " class="form-control" name="file" required
                               />
                           </div>
                           

@@ -34,8 +34,7 @@
                                 <span class="d-block mb-3 text-white" data-aos="fade-up">{{$time}}<span
                                         class="mx-2 text-primary">&bullet;</span>by Nasibu Mahinya</span>
                                 <h1 class="mb-4" data-aos="fade-up" data-aos-delay="100">Nm Blog</h1>
-                                
-                            </div>
+                                                            </div>
 
 
                         </div>

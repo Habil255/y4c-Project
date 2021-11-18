@@ -251,7 +251,7 @@ body {
   font-weight: 400;
   font-size: 12px;
   /* the original color of the whole site is #222 */
-  /* background: #fff;  */
+  background: #222;  
   background-image: url('/public/1602718966.jpeg');
   }
 
@@ -988,7 +988,7 @@ h1, h2, h3, h4, h5,
       background: rgba(255, 255, 255, 0.3); }
   .block-counter-1 .caption {
     font-size: 14px;
-    color: #000;
+    color: #fff;
     letter-spacing: .05em; }
 
 .block-team-member-1 {

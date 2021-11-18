@@ -59,12 +59,12 @@
                           </div>
                             <div class="form-group">
                               <label for="company_name">Image:</label>
-                              <input id="file" type="file" class="form-control" name="file" required
+                              <input id="file" type="bootstadate" class="form-control" name="file" required
                               />
                           </div>
 
                       
-                       <div style="margin-left: 60%;">
+                       <div style="margin-left: 70%;">
                       <input type="submit" value="Save" class="btn btn-success" />
                       </div>
                         </form>
